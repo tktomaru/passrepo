@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>パスワード管理ができるアプリ  PassRepo(パスレポ)</title>
+<meta name="keywords" content="パスワード,暗証番号,アプリ,PassRepo">
+<meta name="description" content="PassRepo（パスレポ）はパスワードを自動生成し管理できるアプリです。">
+</head>
+<body>
+<div class="wrap">
+    <header>PassRepo</header>
+
+    <div class="contents">
+        <h1>パスワード管理ができるアプリ  PassRepo(パスレポ)</h1>
+        <h2>PassRepo（パスレポ）はパスワードを自動生成し管理できるアプリです。</h2>
+            <p>パスワードを忘れてしまったことはありませんか？
+            パスワードを検索することができるので、すぐに見つけることができます。</p>
+        </p>
+        <footer>© PassRepo Apps.</footer>
+	</div>
+</div>
+</body>
+</html>
