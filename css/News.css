@@ -1,0 +1,38 @@
+html{
+    background:#f6f5f5;
+}
+
+
+header{
+    height: 60px;
+    line-height: 60px;
+    color: #fff;
+    text-align: center;
+    font-family:'Verdana';
+    font-size: 35px;
+}
+
+.contents h1{
+    margin: 0 0 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.contents h1{
+    margin: 0 0 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.contents p{
+    margin: 0 0 20px 0;
+    font-size: 13px;
+    color: #666666;
+}
+
+.date{ text-align: right; } 
+
+footer{
+    border-top:1px solid #cccccc;
+    padding: 20px 0 100px 0;
+}
