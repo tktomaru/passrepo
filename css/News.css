@@ -14,19 +14,13 @@ header{
 
 .contents h1{
     margin: 0 0 10px 0;
-    font-size: 18px;
-    font-weight: bold;
-}
-
-.contents h1{
-    margin: 0 0 10px 0;
-    font-size: 18px;
+    font-size: 32px;
     font-weight: bold;
 }
 
 .contents p{
     margin: 0 0 20px 0;
-    font-size: 13px;
+    font-size: 18px;
     color: #666666;
 }
 
